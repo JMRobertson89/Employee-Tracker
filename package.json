@@ -1,0 +1,31 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "A command-line application from to manage a company's employee database, using Node.js, Inquirer, and PostgreSQL.",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMRobertson89/Employee-Tracker.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Inquirer",
+    "PostgresSQL"
+  ],
+  "author": "Joshua Robertson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JMRobertson89/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/JMRobertson89/Employee-Tracker#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "inquirer": "^8.2.4",
+    "jest": "^29.7.0",
+    "uuid": "^10.0.0"
+  }
+}

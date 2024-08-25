@@ -23,7 +23,9 @@
   },
   "homepage": "https://github.com/JMRobertson89/Employee-Tracker#readme",
   "dependencies": {
+    "chalk": "^5.3.0",
     "express": "^4.19.2",
+    "figlet": "^1.7.0",
     "inquirer": "^8.2.4",
     "jest": "^29.7.0",
     "pg": "^8.12.0",

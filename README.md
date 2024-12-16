@@ -67,7 +67,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 Run the application in Node.js with "npm start" and answer the prompts
 
-<video width="960" height="520" controls src="./Assets/Employee-Tracker.mp4"></video>
+View the application in action: https://www.youtube.com/watch?v=7nFSZ9iiGTU
 
 
 ## Credits
